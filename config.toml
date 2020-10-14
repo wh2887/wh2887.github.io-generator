@@ -7,6 +7,7 @@ theme = "hugo-coder"
 languagecode = "zh-cn"
 defaultcontentlanguage = "zh-cn"
 
+# 控制每页展示的列表项数目
 paginate = 20
 
 pygmentsstyle = "b2"
@@ -85,34 +86,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-github"
     weight = 1
     url = "https://github.com/wh2887/"
-# [[params.social]]
-#     name = "Gitlab"
-#     icon = "fa fa-gitlab"
-#     weight = 2
-#     url = "https://gitlab.com/johndoe/"
-# [[params.social]]
-#     name = "Twitter"
-#     icon = "fa fa-twitter"
-#     weight = 3
-#     url = "https://twitter.com/johndoe/"
-# [[params.social]]
-#     name = "LinkedIn"
-#     icon = "fa fa-linkedin"
-#     weight = 4
-#     url = "https://www.linkedin.com/in/johndoe/"
-# [[params.social]]
-#     name = "Medium"
-#     icon = "fa fa-medium"
-#     weight = 5
-#     url = "https://medium.com/@johndoe"
-# [[params.social]]
-#     name = "RSS"
-#     icon = "fa fa-rss"
-#     weight = 6
-#     url = "https://myhugosite.com/index.xml"
-#     rel = "alternate"
-#     type = "application/rss+xml"
-
 
 [languages]
     [languages.zh-cn]

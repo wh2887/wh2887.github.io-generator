@@ -10,7 +10,7 @@ html {
 body {
   color: #212121;
   background-color: #FAFAFA;
-  font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Helvetica, Arial, sans-serif;
+  font-family: -apple-system, helvetica neue, Helvetica, nimbus sans l, Arial, liberation sans, pingfang sc, hiragino sans gb, source han sans cn, source han sans sc, microsoft yahei, wenquanyi micro hei, wenquanyi zen hei, st heiti, SimHei, wenquanyi zen hei sharp, sans-serif;
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em; }
@@ -20,7 +20,7 @@ body {
       line-height: 1.6em; } }
 a {
   font-weight: 300;
-  color: #1565c0;
+  color: #222222;
   text-decoration: none; }
   a:focus, a:hover {
     text-decoration: underline; }
@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Helvetica, Arial, sans-serif;
+  font-family: -apple-system, helvetica neue, Helvetica, nimbus sans l, Arial, liberation sans, pingfang sc, hiragino sans gb, source han sans cn, source han sans sc, microsoft yahei, wenquanyi micro hei, wenquanyi zen hei, st heiti, SimHei, wenquanyi zen hei sharp, sans-serif;
   font-weight: 700;
   color: #000;
   margin: 6.4rem 0 3.2rem 0; }
@@ -258,10 +258,10 @@ img.emoji {
       font-size: 1.8rem;
       flex: 2;
       color: #212121;
-      font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Helvetica, Arial, sans-serif;
+      font-family: -apple-system, helvetica neue, Helvetica, nimbus sans l, Arial, liberation sans, pingfang sc, hiragino sans gb, source han sans cn, source han sans sc, microsoft yahei, wenquanyi micro hei, wenquanyi zen hei, st heiti, SimHei, wenquanyi zen hei sharp, sans-serif;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #1565c0; }
+        color: #222222; }
 
 @media only screen and (min-width: 768.1px) {
   .list ul:not(.pagination) li {
@@ -297,7 +297,7 @@ img.emoji {
           margin-right: 1.0rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #222222; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
@@ -327,15 +327,15 @@ img.emoji {
   .navigation a, .navigation span {
     display: inline;
     font-size: 1.6rem;
-    font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Helvetica, Arial, sans-serif;
+    font-family: -apple-system, helvetica neue, Helvetica, nimbus sans l, Arial, liberation sans, pingfang sc, hiragino sans gb, source han sans cn, source han sans sc, microsoft yahei, wenquanyi micro hei, wenquanyi zen hei, st heiti, SimHei, wenquanyi zen hei sharp, sans-serif;
     font-weight: 700;
     line-height: 6.0rem;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
+    color: #222222;
+    text-decoration: none; }
   .navigation .navigation-title {
-    letter-spacing: 0.1rem;
-    text-transform: uppercase; }
+    letter-spacing: 0.1rem; }
   .navigation .navigation-list {
     float: right;
     list-style: none;
@@ -403,12 +403,12 @@ img.emoji {
     color: #212121;
     cursor: pointer; }
     .navigation i:hover, .navigation i:focus {
-      color: #1565c0; }
+      color: #222222; }
 
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Helvetica, Arial, sans-serif; }
+  font-family: -apple-system, helvetica neue, Helvetica, nimbus sans l, Arial, liberation sans, pingfang sc, hiragino sans gb, source han sans cn, source han sans sc, microsoft yahei, wenquanyi micro hei, wenquanyi zen hei, st heiti, SimHei, wenquanyi zen hei sharp, sans-serif; }
   .pagination li {
     display: inline;
     text-align: center;
@@ -430,6 +430,6 @@ img.emoji {
   line-height: 2.0rem;
   margin-bottom: 1.0rem; }
   .footer a {
-    color: #1565c0; }
+    color: #222222; }
 
 /*# sourceMappingURL=coder.css.map */

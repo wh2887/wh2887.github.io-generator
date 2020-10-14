@@ -10,6 +10,7 @@
       &:hover,
       &:focus {
         color: $link-color-dark;
+        text-decoration: none;
       }
     }
     .navigation-list {
